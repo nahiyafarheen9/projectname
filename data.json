@@ -1,0 +1,51 @@
+{
+  "basics":{
+    "name":"nahiya",
+  "email":"mhamudha513@gmail.com",
+  "mobile":"6874397292",
+  "address":"Anantapur,Andhra Pradesh"
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+    "degree":"B.tech",
+    "institute":"SVIT,Anantapur",
+    "data":["2016-20","75%"]
+  },
+  {
+    "degree":"Intermediate",
+  "institute":"Narayana",
+  "data":["2013-15","80%"]
+},
+  {
+    "degree":"S.S.C",
+    "institute":"Montessori High School",
+    "data":["2013-20","75%"]
+  }
+],
+"skills":[
+  {
+    "sname":"Languages",
+    "sdata":["c","C++","java"]
+  },
+  {
+    "sname":"Languages",
+  "sdata":["c","C++","java"]
+
+},
+{
+  "sname":"DataBases",
+  "sdata":["Oracle","MySql","MySqLite","PDO"]
+},
+{
+  "sname":"Web Technologies",
+  "sdata":["HTML","XML","CSS","PHP","JavaScript"]
+},
+{
+  "sname":"Operating System",
+  "sdata":["Windows","Linux","Unix"]  
+}
+]
+}
